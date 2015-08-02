@@ -1,0 +1,48 @@
+# Site settings
+title: David Mendoza
+email: david06mr@hotmail.com
+url: http://davinci06.github.io/
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+skills: "Web Developer - Entrepreneur"
+
+# Contact form: comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 15929b #18bc9c #80B3FF #Color de pagina principal foto
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: David Mendoza
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/hackmendoza
+  - title: facebook
+    url: https://www.facebook.com/deyvim06
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/davinci06
+  - title: github
+    url: http://github.com/davinci06
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Monterrey
+  - line: N.L.
+
+# Credits content
+credits: 'David Mendoza <a href="https://www.facebook.com/deyvim06">Facebook</a>'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
