@@ -7,5 +7,5 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Bienvenido a mi primer posts espero te guste mi blog.
+description: Welcome Huatulco.
 ---
